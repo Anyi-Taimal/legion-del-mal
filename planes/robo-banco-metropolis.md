@@ -19,6 +19,9 @@ Infiltrar los servidores del Banco Mundial y transferir fondos a las cuentas cif
 
 ## Fases de la operación
 
+- Concentrar a las autoridades en un accidente planeado
+- Observar la vigilancia del banco
+
 ### Fase 1 - Reconocimiento (Mystique)
 
 - [ ] Mystique se infiltra como directora financiera del banco (identidad: "Diana Palmer")
