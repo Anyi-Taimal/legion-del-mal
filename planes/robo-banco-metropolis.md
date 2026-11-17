@@ -21,6 +21,8 @@ Infiltrar los servidores del Banco Mundial y transferir fondos a las cuentas cif
 
 - Concentrar a las autoridades en un accidente planeado
 - Observar la vigilancia del banco
+- Estudiar las posibles amenazas
+- Si todo marcha bien acceder al banco
 
 ### Fase 1 - Reconocimiento (Mystique)
 
